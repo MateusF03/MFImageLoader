@@ -1,0 +1,6 @@
+name: MFBridge
+version: 1.0
+api-version: 1.15
+main: com.mateus.mfbridge.MFBridge
+author: Mateusaum
+description: A Simple bridge
